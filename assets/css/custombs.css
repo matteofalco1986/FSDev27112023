@@ -5,3 +5,7 @@ p {
 h2 {
     margin-top: 16px !important;
 }
+
+.compensatePadding  {
+    padding-bottom: 76px !important;
+}
