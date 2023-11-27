@@ -1,11 +1,5 @@
-p {
-    margin-bottom: 0 !important;
-}
-
-h2 {
-    margin-top: 16px !important;
-}
-
-.compensatePadding  {
-    padding-bottom: 76px !important;
+@media screen and (min-width: 992px){
+    .compensatePadding  {
+    padding-bottom: 108px !important;
+    }
 }
